@@ -1,8 +1,4 @@
 # bussiness_-_loans
-# ============================================================
-# 🔥 Tripti's "Business & Loan Suggestion App" - Full Colab Code
-# ============================================================
-
 # Step 1: Install dependencies
 !pip install streamlit pandas faker
 !npm install -g localtunnel
